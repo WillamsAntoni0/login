@@ -38,15 +38,8 @@
        <i class="fa-solid fa-lock"></i>
     <i class="fa fa-eye" id="btn-senha" onclick="mostrarSenha"></i>
       <input id="senha"  type="password"  placeholder=" senha" required>
-
- 
-
 <br>
-   
-    <input type="checkbox" id="checkbox">
-       <label >Lembrar-me</label>
-        <button onclick="redirecionarParaCadastro()" >Validar</button> 
- </form>
+</form>
    </div>
      <script>
     function redirecionarParaCadastro() {
