@@ -9,12 +9,7 @@
 <script 
  src="https://kit.fontawesome.com/6ca0558071.js"  crossorigin="anonymous"></script> 
     <title>conta Oasis game</title>
-
- </head>
-    <body>
-<!DOCTYPE html>
-<html lang="pt">
-<head>
+ <body>
     <meta charset="UTF-8">
    <title>Título da página</title>
   <link rel="stylesheet" href="Naruto.css">
