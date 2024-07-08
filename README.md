@@ -21,53 +21,7 @@
 </head>
 <body>
     
-<nav>
-    <ul>
-        <li>
-            <a href="">Home</a>
-        </li>
-            <li class="dropdown">
-            <a href="">servidores</a>
-          
-            <div class="dropdown-menu">
-                <a href="">K9P11Q</a>
-                <a href="">K0P17K</a>
-                <a href="">P2P18K</a>
-                <a href="">K19P1P</a>
-                <a href="">Todos.</a>
-            </div>
-        </li>
-            <li class="dropdown">
-            <a href="">Contatos</a>
-            <div class="dropdown-menu">
-                <a class="anc" href="">Fórum</a>
-                <a href="">Facebook</a>
-                <a href="">Instagram</a>
-                <a href="">Discord</a>
-            </div>
-          </li>
-           <li class="dropdown">
-            <a href="">sobre</a>
-            <div class="dropdown-menu">
-              <a href="">Quem<br>somos</a>
-              
-           </div>
-        </li>
-          <li class="dropdown">
-            <a href="">suporte</a>
-            <div class="dropdown-menu">
-                <a href="">Manual</a>
-                <a href="">Conta</a>
-                <a href="">Ajuda</a>
-                <a href="">Dúvidas</a>
-                <a href="">Usuário</a>
-            </div>
-        </li>
-        <li id="registro">
-            <a href="">Registrar</a>
-        </li>
-    </ul>
-</nav>
+
 
 <div class="div-dominante">
    <form>
